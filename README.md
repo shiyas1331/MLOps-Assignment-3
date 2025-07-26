@@ -29,7 +29,7 @@ This assignment builds an end-to-end MLOps pipeline involving:
 
 ---
 
-## 📂 Branches
+## Branches
 
 - `main`: Initial setup
 - `dev`: Model development
